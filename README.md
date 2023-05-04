@@ -9,18 +9,4 @@
 
 ![1e57a69dbe398bca23331c840e8f36a2](https://user-images.githubusercontent.com/80386070/186252370-690c0c7d-57bc-470f-89f6-1f44a22d1b1c.jpg)
 
-from PIL import Image
-
-# Open the image
-image = Image.open(![1e57a69dbe398bca23331c840e8f36a2](https://user-images.githubusercontent.com/80386070/186252370-690c0c7d-57bc-470f-89f6-1f44a22d1b1c.jpg)
-)
-
-# Set the desired width and height for the resized image
-new_width = 800
-new_height = 600
-
-# Resize the image
-resized_image = image.resize((new_width, new_height), Image.ANTIALIAS)
-
-# Save the resized image
-resized_image.save("output_image.jpg")
+<img src="https://user-images.githubusercontent.com/80386070/186252370-690c0c7d-57bc-470f-89f6-1f44a22d1b1c.jpg" alt="Image" width="800" height="600">
