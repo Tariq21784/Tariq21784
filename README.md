@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development and machine learning
 - 💞️ I’m looking to collaborate on technologies to automate as many things as possible(boring, repetitive and dangerous work)
 - 📫 How to reach me arnoldfaku@gmail.com https://www.linkedin.com/in/likhaya-faku-8504351b9/
-- 🚀 Software Developer | AI Enthusiast | Automation Advocate
+- 🚀 Software Developer | AI Accelerationist | Technology Brother
 - 🌱 Automating tasks to unlock human potential
 - 💡 Passionate about narrow AI and machine learning applications
 
